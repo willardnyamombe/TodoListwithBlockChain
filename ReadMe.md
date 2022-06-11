@@ -30,3 +30,4 @@ contract TodoList {
 - then on terminal run ```truffle compile```
 
 *** from here you can follow this tutorial [YouTube tutorial](https://www.youtube.com/watch?v=coQ5dg8wM2o&t=630s)
+*** from here learn How to add Existing project to a GitHub Repository: [Git tutorial](https://www.youtube.com/watch?v=OVL7R0eT8jw)
